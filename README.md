@@ -281,7 +281,7 @@ This provides data about an individual achievement.
   <dt>Example URL</dt>
   <dd>[/api/wow/achievement/2144](http://us.battle.net/api/wow/achievement/2144)</dd>
   <dt>Example Data</dt>
-  <dd>[achievement.json](https://gist.github.com/3772776#file_achievement.json)</dd>
+  <dd>[achievement.json](https://gist.github.com/3772776#file-achievement-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=achievement.json"></script>
 
@@ -309,7 +309,7 @@ resource.
   <dt>Example URL</dt>
   <dd>[/api/wow/auction/data/medivh](http://us.battle.net/api/wow/auction/data/medivh)</dd>
   <dt>Example Data</dt>
-  <dd>[auction-data.json](https://gist.github.com/3772776#file_auction_data.json)</dd>
+  <dd>[auction-data.json](https://gist.github.com/3772776#file-auction-data-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=auction-data.json"></script>
 
@@ -338,7 +338,7 @@ since it depends on your pet's species, level and quality rolls.
   <dt>Example URL</dt>
   <dd>[/api/wow/battlePet/ability/640](http://us.battle.net/api/wow/battlePet/ability/640)</dd>
   <dt>Example Data</dt>
-  <dd>[battlePet-ability.json](https://gist.github.com/3772776#file_battle_pet_ability.json)</dd>
+  <dd>[battlePet-ability.json](https://gist.github.com/3772776#file-battle-pet-ability-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=battlePet-ability.json"></script>
 
@@ -356,7 +356,7 @@ has data about what it's 6 abilities are.
   <dt>Example URL</dt>
   <dd>[/api/wow/battlePet/species/258](http://us.battle.net/api/wow/battlePet/species/258)</dd>
   <dt>Example Data</dt>
-  <dd>[battlePet-species.json](https://gist.github.com/3772776#file_battle_pet_species.json)</dd>
+  <dd>[battlePet-species.json](https://gist.github.com/3772776#file-battle-pet-species-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=battlePet-species.json"></script>
 
@@ -394,7 +394,7 @@ URL = Host + "/api/wow/battlePet/stats/" + SpeciesID
   <dt>Example URL</dt>
   <dd>[/api/wow/battlePet/stats/258?level=25&breedId=5&qualityId=4](http://us.battle.net/api/wow/battlePet/stats/258?level=25&breedId=5&qualityId=4)</dd>
   <dt>Example Data</dt>
-  <dd>[battlePet-stats.json](https://gist.github.com/3772776#file_battle_pet_stats.json)</dd>
+  <dd>[battlePet-stats.json](https://gist.github.com/3772776#file-battle-pet-stats-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=battlePet-stats.json"></script>
 
@@ -421,7 +421,7 @@ character during the challenge mode run.
   <dt>Example URL</dt>
   <dd>[/api/wow/challenge/medivh](http://us.battle.net/api/wow/challenge/medivh)</dd>
   <dt>Example Data</dt>
-  <dd>[challenge.json](https://gist.github.com/3772776#file_challenge.json)</dd>
+  <dd>[challenge.json](https://gist.github.com/3772776#file-challenge-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=challenge.json"></script>
 
@@ -454,7 +454,7 @@ Realm = <proper realm name> | <normalized realm name>
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn</dd>
   <dt>Example Data</dt>
-  <dd>[character.json](https://gist.github.com/3772776#file_character.json)</dd>
+  <dd>[character.json](https://gist.github.com/3772776#file-character-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character.json"></script>
 
@@ -553,7 +553,7 @@ http://us.battle.net/api/wow/character/Medivh/Uther?fields=guild,items,professio
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=achievements</dd>
   <dt>Example Data</dt>
-  <dd>[character-achievements.json](https://gist.github.com/3772776#file_character_achievements.json)</dd>
+  <dd>[character-achievements.json](https://gist.github.com/3772776#file-character-achievements-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-achievements.json"></script>
 
@@ -563,7 +563,7 @@ http://us.battle.net/api/wow/character/Medivh/Uther?fields=guild,items,professio
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=appearance</dd>
   <dt>Example Data</dt>
-  <dd>[character-appearance.json](https://gist.github.com/3772776#file_character_appearance.json)</dd>
+  <dd>[character-appearance.json](https://gist.github.com/3772776#file-character-appearance-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-appearance.json"></script>
 
@@ -573,7 +573,7 @@ http://us.battle.net/api/wow/character/Medivh/Uther?fields=guild,items,professio
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=feed</dd>
   <dt>Example Data</dt>
-  <dd>[character-feed.json](https://gist.github.com/3772776#file_character_feed.json)</dd>
+  <dd>[character-feed.json](https://gist.github.com/3772776#file-character-feed-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-feed.json"></script>
 
@@ -590,7 +590,7 @@ resource.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=guild</dd>
   <dt>Example Data</dt>
-  <dd>[character-guild.json](https://gist.github.com/3772776#file_character_guild.json)</dd>
+  <dd>[character-guild.json](https://gist.github.com/3772776#file-character-guild-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-guild.json"></script>
 
@@ -600,7 +600,7 @@ resource.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=hunterPets</dd>
   <dt>Example Data</dt>
-  <dd>[character-hunterPets.json](https://gist.github.com/3772776#file_character_hunterPets.json)</dd>
+  <dd>[character-hunterPets.json](https://gist.github.com/3772776#file-character-hunterPets-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-hunterPets.json"></script>
 
@@ -614,7 +614,7 @@ as the average item level of the character.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=items</dd>
   <dt>Example Data</dt>
-  <dd>[character-items.json](https://gist.github.com/3772776#file_character_items.json)</dd>
+  <dd>[character-items.json](https://gist.github.com/3772776#file-character-items-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-items.json"></script>
 
@@ -624,7 +624,7 @@ as the average item level of the character.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=mounts</dd>
   <dt>Example Data</dt>
-  <dd>[character-mounts.json](https://gist.github.com/3772776#file_character_mounts.json)</dd>
+  <dd>[character-mounts.json](https://gist.github.com/3772776#file-character-mounts-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-mounts.json"></script>
 
@@ -634,7 +634,7 @@ as the average item level of the character.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=pets</dd>
   <dt>Example Data</dt>
-  <dd>[character-pets.json](https://gist.github.com/3772776#file_character_pets.json)</dd>
+  <dd>[character-pets.json](https://gist.github.com/3772776#file-character-pets-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-pets.json"></script>
 
@@ -651,7 +651,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=petSlots</dd>
   <dt>Example Data</dt>
-  <dd>[character-petSlots.json](https://gist.github.com/3772776#file_character_petSlots.json)</dd>
+  <dd>[character-petSlots.json](https://gist.github.com/3772776#file-character-petSlots-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-petSlots.json"></script>
 
@@ -661,7 +661,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=professions</dd>
   <dt>Example Data</dt>
-  <dd>[character-professions.json](https://gist.github.com/3772776#file_character_professions.json)</dd>
+  <dd>[character-professions.json](https://gist.github.com/3772776#file-character-professions-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-professions.json"></script>
 
@@ -671,7 +671,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=progression</dd>
   <dt>Example Data</dt>
-  <dd>[character-progression.json](https://gist.github.com/3772776#file_character_progression.json)</dd>
+  <dd>[character-progression.json](https://gist.github.com/3772776#file-character-progression-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-progression.json"></script>
 
@@ -681,7 +681,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=pvp</dd>
   <dt>Example Data</dt>
-  <dd>[character-pvp.json](https://gist.github.com/3772776#file_character_pvp.json)</dd>
+  <dd>[character-pvp.json](https://gist.github.com/3772776#file-character-pvp-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-pvp.json"></script>
 
@@ -691,7 +691,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=quests</dd>
   <dt>Example Data</dt>
-  <dd>[character-quests.json](https://gist.github.com/3772776#file_character_quests.json)</dd>
+  <dd>[character-quests.json](https://gist.github.com/3772776#file-character-quests-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-quests.json"></script>
 
@@ -701,7 +701,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=reputation</dd>
   <dt>Example Data</dt>
-  <dd>[character-reputation.json](https://gist.github.com/3772776#file_character_reputation.json)</dd>
+  <dd>[character-reputation.json](https://gist.github.com/3772776#file-character-reputation-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-reputation.json"></script>
 
@@ -711,7 +711,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=stats</dd>
   <dt>Example Data</dt>
-  <dd>[character-stats.json](https://gist.github.com/3772776#file_character_stats.json)</dd>
+  <dd>[character-stats.json](https://gist.github.com/3772776#file-character-stats-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-stats.json"></script>
 
@@ -721,7 +721,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=talents</dd>
   <dt>Example Data</dt>
-  <dd>[character-talents.json](https://gist.github.com/3772776#file_character_talents.json)</dd>
+  <dd>[character-talents.json](https://gist.github.com/3772776#file-character-talents-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-talents.json"></script>
 
@@ -731,7 +731,7 @@ the first three abilities that the pet has.
   <dt>Example URL</dt>
   <dd>/api/wow/character/test-realm/Peratryn?fields=titles</dd>
   <dt>Example Data</dt>
-  <dd>[character-titles.json](https://gist.github.com/3772776#file_character_titles.json)</dd>
+  <dd>[character-titles.json](https://gist.github.com/3772776#file-character-titles-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=character-titles.json"></script>
 
@@ -762,7 +762,7 @@ URL = Host + "/api/wow/item/" + ItemId
   <dt>Example URL</dt>
   <dd>[/api/wow/item/18803](http://us.battle.net/api/wow/item/18803)</dd>
   <dt>Example Data</dt>
-  <dd>[item.json](https://gist.github.com/3772776#file_item.json)</dd>
+  <dd>[item.json](https://gist.github.com/3772776#file-item-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=item.json"></script>
 
@@ -778,7 +778,7 @@ URL = Host + "/api/wow/item/set/" + SetId
   <dt>Example URL</dt>
   <dd>[/api/wow/item/set/1060](http://us.battle.net/api/wow/item/set/1060)</dd>
   <dt>Example Data</dt>
-  <dd>[item-set.json](https://gist.github.com/3772776#file_item_set.json)</dd>
+  <dd>[item-set.json](https://gist.github.com/3772776#file-item-set-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=item-set.json"></script>
 
@@ -861,7 +861,7 @@ character block as well as a rank field.
   <dt>Example URL</dt>
   <dd>/api/wow/guild/test-realm/Test%20Guild?fields=members</dd>
   <dt>Example Data</dt>
-  <dd>[guild-members.json](https://gist.github.com/3772776#file_guild_members.json)</dd>
+  <dd>[guild-members.json](https://gist.github.com/3772776#file-guild-members-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=guild-members.json"></script>
 
@@ -896,7 +896,7 @@ returned.
   <dt>Example URL</dt>
   <dd>/api/wow/guild/test-realm/Test%20Guild?fields=achievements</dd>
   <dt>Example Data</dt>
-  <dd>[guild-achievements.json](https://gist.github.com/3772776#file_guild_achievements.json)</dd>
+  <dd>[guild-achievements.json](https://gist.github.com/3772776#file-guild-achievements-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=guild-achievements.json"></script>
 
@@ -910,7 +910,7 @@ depending on the type: itemId, achievement object, etc.
   <dt>Example URL</dt>
   <dd>/api/wow/guild/test-realm/Test%20Guild?fields=news</dd>
   <dt>Example Data</dt>
-  <dd>[guild-news.json](https://gist.github.com/3772776#file_guild_news.json)</dd>
+  <dd>[guild-news.json](https://gist.github.com/3772776#file-guild-news-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=guild-news.json"></script>
 
@@ -922,7 +922,7 @@ The challenge field provides the top three guild run times for each challenge mo
   <dt>Example URL</dt>
   <dd>/api/wow/guild/test-realm/Test%20Guild?fields=challenge</dd>
   <dt>Example Data</dt>
-  <dd>[guild-challenge.json](https://gist.github.com/3772776#file_guild_challenge.json)</dd>
+  <dd>[guild-challenge.json](https://gist.github.com/3772776#file-guild-challenge-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=guild-challenge.json"></script>
 
@@ -943,7 +943,7 @@ URL = Host + "/api/wow/leaderboard/" + Bracket
   <dt>Example URL</dt>
   <dd>[/api/wow/leaderboard/3v3](http://us.battle.net/api/wow/leaderboard/3v3)</dd>
   <dt>Example Data</dt>
-  <dd>[leaderboard.json](https://gist.github.com/3772776#file_leaderboard.json)</dd>
+  <dd>[leaderboard.json](https://gist.github.com/3772776#file-leaderboard-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=leaderboard.json"></script>
 
@@ -959,7 +959,7 @@ URL = Host + "/api/wow/quest/" + QuestId
   <dt>Example URL</dt>
   <dd>[/api/wow/quest/13146](http://us.battle.net/api/wow/quest/13146)</dd>
   <dt>Example Data</dt>
-  <dd>[quest.json](https://gist.github.com/3772776#file_quest.json)</dd>
+  <dd>[quest.json](https://gist.github.com/3772776#file-quest-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=quest.json"></script>
 
@@ -1015,7 +1015,7 @@ URL = Host + "/api/wow/recipe/" + RecipeId
   <dt>Example URL</dt>
   <dd>[/api/wow/recipe/33994](http://us.battle.net/api/wow/recipe/33994)</dd>
   <dt>Example Data</dt>
-  <dd>[recipe.json](https://gist.github.com/3772776#file_recipe.json)</dd>
+  <dd>[recipe.json](https://gist.github.com/3772776#file-recipe-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=recipe.json"></script>
 
@@ -1031,7 +1031,7 @@ URL = Host + "/api/wow/spell/" + SpellId
   <dt>Example URL</dt>
   <dd>[/api/wow/spell/8056](http://us.battle.net/api/wow/spell/8056)</dd>
   <dt>Example Data</dt>
-  <dd>[spell.json](https://gist.github.com/3772776#file_spell.json)</dd>
+  <dd>[spell.json](https://gist.github.com/3772776#file-spell-json)</dd>
 </dl>
 <script src="https://gist.github.com/3772776.js?file=spell.json"></script>
 
